@@ -1,0 +1,21 @@
+exercise: 1:- // Write a Java program to find the largest element in an array.
+exercise: 2:-// Write a Java program to find the lowest element in an array.
+exercise: 3:-// write a java program to reverse the array.
+exercise: 4:-//Write a Java program to check whether an array is sorted in ascending order.
+exercise: 5:-//Write a Java program to find the second largest element in the array.
+exercise: 6:-//Write a Java program to move all the zeroes to the end of the array while maintaining the relative order of non-zero elements.
+exercise: 7:-//Write a Java program to count how many times a given element appears in an array.
+exercise: 8:-//Write a Java program to find the missing number in an array.
+exercise: 9:-//Write a Java program to print all duplicate elements present in an array.
+exercise: 10-//Write a Java program to find the common elements between two arrays.
+exercise: 11:-//Write a Java program to check if there exists a pair of elements in the array whose sum is equal to a given target.
+exercise: 12:-//Write a Java program to search a given element in a sorted array using Binary Search.
+exercise: 13:-//Find the First Occurrence of an Element in a Sorted Array
+exercise: 14:-//Write a Java program to rotate an array to the left by one position.
+exercise: 15:-// Write a Java program to rotate an array to the right by one position.
+exercise: 16:-//Write a Java program to remove duplicate elements from a sorted array.
+exercise: 17:-//Write a Java program to merge two sorted arrays into a single sorted array.
+exercise: 18:-// wap to find the best day to buy and sell product
+exercise: 19:-//wap is valid anagram or not
+exercise: 20:-//wap to group anagram
+exercise: 22:-//Wap to find the longest consecutive sequence.
