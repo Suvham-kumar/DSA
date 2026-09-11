@@ -19,3 +19,7 @@ exercise: 18:-// wap to find the best day to buy and sell product
 exercise: 19:-//wap is valid anagram or not
 exercise: 20:-//wap to group anagram
 exercise: 22:-//Wap to find the longest consecutive sequence.
+exercise: 23:- // wap to find the two sum II - innput array is sorted.
+exercise: 24:- //given an array of integers, find all the unique triplets such that their sum is equal to 0. the indeces cannot be duplicate.
+exercise: 25:- // wap to find the container with most water.
+exercise: 26:- // wap to find the product of an array itself.
